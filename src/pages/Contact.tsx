@@ -46,8 +46,8 @@ export default function Contact() {
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold">Our Office</h3>
                   <p className="text-gray-600">
-                    123 Innovation Street<br />
-                    Tech City, TC 12345
+                    Neolumina Technology Solutions<br />
+                    Chennai
                   </p>
                 </div>
               </div>
@@ -56,7 +56,7 @@ export default function Contact() {
                 <Phone className="h-6 w-6 text-indigo-600 mt-1" />
                 <div className="ml-4">
                   <h3 className="text-lg font-semibold">Phone</h3>
-                  <p className="text-gray-600">(555) 123-4567</p>
+                  <p className="text-gray-600">7823920147</p>
                 </div>
               </div>
 

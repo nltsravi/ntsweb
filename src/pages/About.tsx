@@ -3,27 +3,27 @@ import React from 'react';
 export default function About() {
   const directors = [
     {
-      name: 'Sarah Chen',
-      role: 'CEO & Founder',
-      image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80',
+      name: 'Vasanth Parthasarathy',
+      role: 'Director & Founder',
+      image: 'vasanth.JPG',
       description: 'With over 20 years of experience in tech innovation, Sarah leads Neolumina\'s vision and strategic direction.',
     },
     {
-      name: 'Michael Rodriguez',
-      role: 'CTO',
-      image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80',
+      name: 'Ravishankar Jayaraman',
+      role: 'Director & Co-Founder',
+      image: 'ravi.jpg',
       description: 'A pioneer in AI and machine learning, Michael drives our technological advancement and innovation initiatives.',
     },
     {
-      name: 'Emily Thompson',
-      role: 'COO',
-      image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80',
+      name: 'Prasanna Ravichandran',
+      role: 'Director & Co-Founder',
+      image: 'prasanna-ravichandran.jpg?auto=format&fit=crop&q=80',
       description: 'Emily ensures operational excellence and sustainable growth across all our global operations.',
     },
     {
-      name: 'David Park',
-      role: 'CFO',
-      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80',
+      name: 'Sudarshan Aravamudhan',
+      role: 'Director & Co-Founder',
+      image: 'sudarshan.jpg',
       description: 'With his strategic financial planning, David helps maintain our strong market position and growth.',
     },
   ];
