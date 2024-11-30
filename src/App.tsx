@@ -14,10 +14,10 @@ function App() {
         <Navbar />
         <main className="flex-grow">
           <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/about" element={<About />} />
-            <Route path="/careers" element={<Careers />} /> 
-            <Route path="/contact" element={<Contact />} />
+            <Route path="/ntsweb/" element={<Home />} />
+            <Route path="/ntsweb/about" element={<About />} />
+            <Route path="/ntsweb/careers" element={<Careers />} /> 
+            <Route path="/ntsweb/contact" element={<Contact />} />
           </Routes>
         </main>
         <Footer />

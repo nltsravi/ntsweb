@@ -9,10 +9,10 @@ export default function Navbar() {
   const isActive = (path: string) => location.pathname === path;
 
   const navLinks = [
-    { path: '/', label: 'Home' },
-    { path: '/about', label: 'About Us' },
+    { path: '/ntsweb/', label: 'Home' },
+    { path: '/ntsweb/about', label: 'About Us' },
    /* { path: '/careers', label: 'Careers' },*/
-    { path: '/contact', label: 'Contact' },
+    { path: '/ntsweb/contact', label: 'Contact' },
   ];
 
   return (
@@ -20,8 +20,8 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16">
           <div className="flex items-center">
-            <Link to="/" className="flex-shrink-0 flex items-center">
-            <img src="/nts.png" width="50px" height="50px" />&nbsp;
+            <Link to="/ntsweb" className="flex-shrink-0 flex items-center">
+            <img src="/ntsweb/nts.png" width="50px" height="50px" />&nbsp;
               <span className="text-2xl font-bold text-indigo-600">Neolumina</span>
             </Link>
           </div>
