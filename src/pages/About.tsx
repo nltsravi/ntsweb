@@ -15,12 +15,6 @@ export default function About() {
       description: 'A pioneer in AI and machine learning, Ravi drives our technological advancement and innovation initiatives.',
     },
     {
-      name: 'Prasanna Ravichandran',
-      role: 'Director & Co-Founder',
-      image: 'https://i.ibb.co/DCs02WD/pr.png?auto=format&fit=crop&q=80',
-      description: 'Prasanna ensures operational excellence and sustainable growth across all our global operations.',
-    },
-    {
       name: 'Sudarshan Aravamudhan',
       role: 'Director & Co-Founder',
       image: 'https://i.ibb.co/sRtx5Zd/sa.png',
