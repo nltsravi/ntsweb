@@ -21,7 +21,7 @@ export default function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/ntsweb" className="flex-shrink-0 flex items-center">
-            <img src="/ntsweb/nts.png" width="50px" height="50px" />&nbsp;
+            <img src="https://i.ibb.co/xXNwGW6/nts.png" width="50px" height="50px" />&nbsp;
               <span className="text-2xl font-bold text-indigo-600">Neolumina</span>
             </Link>
           </div>

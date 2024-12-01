@@ -5,25 +5,25 @@ export default function About() {
     {
       name: 'Vasanth Parthasarathy',
       role: 'Director & Founder',
-      image: 'vp.png',
+      image: 'https://i.ibb.co/Kwqycft/vp.png',
       description: 'With over 20 years of experience in tech innovation, Vasanth leads Neolumina\'s vision and strategic direction.',
     },
     {
       name: 'Ravishankar Jayaraman',
       role: 'Director & Co-Founder',
-      image: 'rj.png',
+      image: 'https://i.ibb.co/ZYNPmLL/rj.png',
       description: 'A pioneer in AI and machine learning, Ravi drives our technological advancement and innovation initiatives.',
     },
     {
       name: 'Prasanna Ravichandran',
       role: 'Director & Co-Founder',
-      image: 'pr.png?auto=format&fit=crop&q=80',
+      image: 'https://i.ibb.co/DCs02WD/pr.png?auto=format&fit=crop&q=80',
       description: 'Prasanna ensures operational excellence and sustainable growth across all our global operations.',
     },
     {
       name: 'Sudarshan Aravamudhan',
       role: 'Director & Co-Founder',
-      image: 'sa.png',
+      image: 'https://i.ibb.co/sRtx5Zd/sa.png',
       description: 'With his strategic financial planning, Sudarshan helps maintain our strong market position and growth.',
     },
   ];
